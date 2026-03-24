@@ -30,7 +30,6 @@ Test Result
 Connection successful
 ```
 
-![MySQL ODBC Connection Successful](mysql_odbc_connection_successful.png)
 
 ## 4. Verify Installation
 - Use your application or a command-line tool to connect using the `ECommerceDSN` data source.
